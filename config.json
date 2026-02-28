@@ -1,0 +1,1 @@
+{"database": {"type": "mongodb", "host": "localhost", "port": 27017, "name": "lotus_water_lily_db"}, "server": {"port": 5000, "host": "localhost"}, "jwt": {"secret": "your_jwt_secret_key_here", "expiresIn": "24h"}, "cors": {"origin": "http://localhost:3000", "credentials": true}}
